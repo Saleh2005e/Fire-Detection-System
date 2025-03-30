@@ -17,10 +17,15 @@
 التقنيات:
 
 Python
+
 OpenCV
+
 YOLOv8
+
 PyTorch
+
 Telegram API
+
 Tkinter
 
 التطبيقات:
