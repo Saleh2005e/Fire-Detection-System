@@ -12,8 +12,8 @@ from PIL import Image, ImageTk
 import time
 import threading  
 
-bot_token = '8026165038:AAHZRrmd2VQV099yaVeD8D4BG1U8JwSaReQ'
-chat_id = '1622990666'
+bot_token = 'bot_token'
+chat_id = 'chat_id'
 
 def send_telegram_message(image_path, report_text):
     url = f"https://api.telegram.org/bot{bot_token}/sendMessage"
